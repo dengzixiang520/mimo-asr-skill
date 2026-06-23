@@ -2,10 +2,6 @@
 
 Claude Code Skill：使用小米 MiMo-V2.5-ASR 云端模型将音频转为文字。
 
-## 什么是 Skill？
-
-Skill 是 Claude Code 的扩展能力，通过 `/技能名` 调用。本项目提供 `/transcribe` 技能，让 Claude 帮你完成音频转文字。
-
 ## 安装 Skill
 
 ### 方法 1：克隆到全局 Skills 目录
